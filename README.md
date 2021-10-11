@@ -1,5 +1,4 @@
-<h1 align="center">Ello, I'm yeeter</h1>
-<h3 align="center">Programmer 😳</h3>
+<h1 align="center">Ello, I'm Evelynn</h1>
 
 - I’m currently working on **Maven Client**
 
@@ -7,6 +6,6 @@
 
 - 📫 How to reach me **Evelynn#1541**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeterlol&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Evelynnnnnnnnnn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeterlol&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelynnnnnnnnnn&layout=compact)
